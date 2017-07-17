@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="29" passed="29">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11533" started-at="2017-07-17T13:59:35Z" finished-at="2017-07-17T13:59:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11533" started-at="2017-07-17T13:59:35Z" finished-at="2017-07-17T13:59:47Z">
+      <class name="SnLServiceV1Test">
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:SnLServiceV1Test@724af044]" name="setBaseUri" is-config="true" duration-ms="1" started-at="2017-07-17T19:29:43Z" finished-at="2017-07-17T19:29:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseUri -->
+        <test-method status="PASS" signature="testingForAddingNewPlayer()[pri:0, instance:SnLServiceV1Test@724af044]" name="testingForAddingNewPlayer" duration-ms="164" started-at="2017-07-17T19:29:43Z" finished-at="2017-07-17T19:29:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingForAddingNewPlayer -->
+        <test-method status="PASS" signature="testingForDeletingPlayer()[pri:0, instance:SnLServiceV1Test@724af044]" name="testingForDeletingPlayer" duration-ms="269" started-at="2017-07-17T19:29:43Z" finished-at="2017-07-17T19:29:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingForDeletingPlayer -->
+        <test-method status="PASS" signature="testingForDestroyingTheBoard()[pri:0, instance:SnLServiceV1Test@724af044]" name="testingForDestroyingTheBoard" duration-ms="111" started-at="2017-07-17T19:29:43Z" finished-at="2017-07-17T19:29:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingForDestroyingTheBoard -->
+        <test-method status="PASS" signature="testingForPlayerMovement()[pri:0, instance:SnLServiceV1Test@724af044]" name="testingForPlayerMovement" duration-ms="293" started-at="2017-07-17T19:29:44Z" finished-at="2017-07-17T19:29:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingForPlayerMovement -->
+        <test-method status="PASS" signature="testingForTheUpdatingDetailsOfPlayer()[pri:0, instance:SnLServiceV1Test@724af044]" name="testingForTheUpdatingDetailsOfPlayer" duration-ms="295" started-at="2017-07-17T19:29:44Z" finished-at="2017-07-17T19:29:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingForTheUpdatingDetailsOfPlayer -->
+        <test-method status="PASS" signature="testingListOfTheBoards()[pri:0, instance:SnLServiceV1Test@724af044]" name="testingListOfTheBoards" duration-ms="387" started-at="2017-07-17T19:29:44Z" finished-at="2017-07-17T19:29:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingListOfTheBoards -->
+        <test-method status="PASS" signature="testingNewBoardEntry()[pri:0, instance:SnLServiceV1Test@724af044]" name="testingNewBoardEntry" duration-ms="64" started-at="2017-07-17T19:29:45Z" finished-at="2017-07-17T19:29:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingNewBoardEntry -->
+        <test-method status="PASS" signature="testingPlayerDetail()[pri:0, instance:SnLServiceV1Test@724af044]" name="testingPlayerDetail" duration-ms="212" started-at="2017-07-17T19:29:45Z" finished-at="2017-07-17T19:29:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingPlayerDetail -->
+        <test-method status="PASS" signature="testingStatusCodeJSON()[pri:0, instance:SnLServiceV1Test@724af044]" name="testingStatusCodeJSON" duration-ms="430" started-at="2017-07-17T19:29:45Z" finished-at="2017-07-17T19:29:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingStatusCodeJSON -->
+        <test-method status="PASS" signature="testingStatusCodeXML()[pri:0, instance:SnLServiceV1Test@724af044]" name="testingStatusCodeXML" duration-ms="841" started-at="2017-07-17T19:29:45Z" finished-at="2017-07-17T19:29:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingStatusCodeXML -->
+        <test-method status="PASS" signature="testingTheRestSer()[pri:0, instance:SnLServiceV1Test@724af044]" name="testingTheRestSer" duration-ms="398" started-at="2017-07-17T19:29:46Z" finished-at="2017-07-17T19:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingTheRestSer -->
+      </class> <!-- SnLServiceV1Test -->
+      <class name="SnLServicesV2Test">
+        <test-method status="PASS" signature="testingForAddingNewPlayer()[pri:0, instance:SnLServicesV2Test@5c7fa833]" name="testingForAddingNewPlayer" duration-ms="1887" started-at="2017-07-17T19:29:35Z" finished-at="2017-07-17T19:29:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingForAddingNewPlayer -->
+        <test-method status="PASS" signature="testingForDeletingPlayer()[pri:0, instance:SnLServicesV2Test@5c7fa833]" name="testingForDeletingPlayer" duration-ms="452" started-at="2017-07-17T19:29:37Z" finished-at="2017-07-17T19:29:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingForDeletingPlayer -->
+        <test-method status="PASS" signature="testingForDestroyingTheBoard()[pri:0, instance:SnLServicesV2Test@5c7fa833]" name="testingForDestroyingTheBoard" duration-ms="225" started-at="2017-07-17T19:29:38Z" finished-at="2017-07-17T19:29:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingForDestroyingTheBoard -->
+        <test-method status="PASS" signature="testingForPlayerMovement()[pri:0, instance:SnLServicesV2Test@5c7fa833]" name="testingForPlayerMovement" duration-ms="508" started-at="2017-07-17T19:29:38Z" finished-at="2017-07-17T19:29:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingForPlayerMovement -->
+        <test-method status="PASS" signature="testingForTheUpdatingDetailsOfPlayer()[pri:0, instance:SnLServicesV2Test@5c7fa833]" name="testingForTheUpdatingDetailsOfPlayer" duration-ms="482" started-at="2017-07-17T19:29:38Z" finished-at="2017-07-17T19:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingForTheUpdatingDetailsOfPlayer -->
+        <test-method status="PASS" signature="testingListOfTheBoards()[pri:0, instance:SnLServicesV2Test@5c7fa833]" name="testingListOfTheBoards" duration-ms="495" started-at="2017-07-17T19:29:39Z" finished-at="2017-07-17T19:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingListOfTheBoards -->
+        <test-method status="PASS" signature="testingNewBoardEntry()[pri:0, instance:SnLServicesV2Test@5c7fa833]" name="testingNewBoardEntry" duration-ms="86" started-at="2017-07-17T19:29:39Z" finished-at="2017-07-17T19:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingNewBoardEntry -->
+        <test-method status="PASS" signature="testingPlayerDetail()[pri:0, instance:SnLServicesV2Test@5c7fa833]" name="testingPlayerDetail" duration-ms="338" started-at="2017-07-17T19:29:39Z" finished-at="2017-07-17T19:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingPlayerDetail -->
+        <test-method status="PASS" signature="testingStatusCodeJSON()[pri:0, instance:SnLServicesV2Test@5c7fa833]" name="testingStatusCodeJSON" duration-ms="403" started-at="2017-07-17T19:29:40Z" finished-at="2017-07-17T19:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingStatusCodeJSON -->
+      </class> <!-- SnLServicesV2Test -->
+      <class name="SnLServiceV3Test">
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:SnLServiceV3Test@39aeed2f]" name="setBaseUri" is-config="true" duration-ms="288" started-at="2017-07-17T19:29:35Z" finished-at="2017-07-17T19:29:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseUri -->
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:SnLServicesV2Test@5c7fa833]" name="setBaseUri" is-config="true" duration-ms="0" started-at="2017-07-17T19:29:35Z" finished-at="2017-07-17T19:29:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseUri -->
+        <test-method status="PASS" signature="testingForAddingNewPlayer()[pri:0, instance:SnLServiceV3Test@39aeed2f]" name="testingForAddingNewPlayer" duration-ms="271" started-at="2017-07-17T19:29:40Z" finished-at="2017-07-17T19:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingForAddingNewPlayer -->
+        <test-method status="PASS" signature="testingForDeletingPlayer()[pri:0, instance:SnLServiceV3Test@39aeed2f]" name="testingForDeletingPlayer" duration-ms="281" started-at="2017-07-17T19:29:40Z" finished-at="2017-07-17T19:29:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingForDeletingPlayer -->
+        <test-method status="PASS" signature="testingForDestroyingTheBoard()[pri:0, instance:SnLServiceV3Test@39aeed2f]" name="testingForDestroyingTheBoard" duration-ms="234" started-at="2017-07-17T19:29:41Z" finished-at="2017-07-17T19:29:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingForDestroyingTheBoard -->
+        <test-method status="PASS" signature="testingForPlayerMovement()[pri:0, instance:SnLServiceV3Test@39aeed2f]" name="testingForPlayerMovement" duration-ms="368" started-at="2017-07-17T19:29:41Z" finished-at="2017-07-17T19:29:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingForPlayerMovement -->
+        <test-method status="PASS" signature="testingForTheUpdatingDetailsOfPlayer()[pri:0, instance:SnLServiceV3Test@39aeed2f]" name="testingForTheUpdatingDetailsOfPlayer" duration-ms="327" started-at="2017-07-17T19:29:41Z" finished-at="2017-07-17T19:29:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingForTheUpdatingDetailsOfPlayer -->
+        <test-method status="PASS" signature="testingListOfTheBoards()[pri:0, instance:SnLServiceV3Test@39aeed2f]" name="testingListOfTheBoards" duration-ms="521" started-at="2017-07-17T19:29:42Z" finished-at="2017-07-17T19:29:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingListOfTheBoards -->
+        <test-method status="PASS" signature="testingNewBoardEntry()[pri:0, instance:SnLServiceV3Test@39aeed2f]" name="testingNewBoardEntry" duration-ms="128" started-at="2017-07-17T19:29:42Z" finished-at="2017-07-17T19:29:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingNewBoardEntry -->
+        <test-method status="PASS" signature="testingPlayerDetail()[pri:0, instance:SnLServiceV3Test@39aeed2f]" name="testingPlayerDetail" duration-ms="259" started-at="2017-07-17T19:29:42Z" finished-at="2017-07-17T19:29:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingPlayerDetail -->
+        <test-method status="PASS" signature="testingTokenGeneration()[pri:0, instance:SnLServiceV3Test@39aeed2f]" name="testingTokenGeneration" duration-ms="461" started-at="2017-07-17T19:29:43Z" finished-at="2017-07-17T19:29:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingTokenGeneration -->
+      </class> <!-- SnLServiceV3Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
